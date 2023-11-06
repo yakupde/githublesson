@@ -1,0 +1,6 @@
+Araba:Car
+Kırmızı:Red
+mavi:blue
+ev:home
+koşmak:run
+yürümek:walking
